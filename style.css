@@ -12,6 +12,7 @@ nav{
     display: flex;
     justify-content: space-between;
     align-items: center;
+    margin: 0 200px;
 }
 
 .nav-title{
@@ -51,6 +52,27 @@ nav > ul li a{
     background: #FD6E0A;
     padding: 16px 35px
 }
+
+/* Header Releted Styles */
+
+.header{
+    background: #FFF8F3;
+}
+
+.banner{
+    padding: 30px 30px 30px 150px;
+    display: flex;
+    align-items: center;
+}
+
+.banner-content{
+    
+}
+
+.profile-picture{
+    width: 50%;
+}
+
 
 
 
